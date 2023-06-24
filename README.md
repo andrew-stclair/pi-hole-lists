@@ -1,4 +1,4 @@
 # pi-hole-lists
 URL's for lists for pi-hole
 
-Information is fromm [firebog.net](https://firebog.net/)
+Information is from [firebog.net](https://firebog.net/)
